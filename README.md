@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![My Solution](./images/MySolution.png)
+![My Solution](images/MySolution.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [site URL](https://nedimperva.github.io/order-summary-component/)
 
 ## My process
 
